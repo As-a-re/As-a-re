@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small and large scale projects
 - 📫 How to reach me asarekwakuobeng.netlify.app
 - 😄 Pronouns: He
-- ⚡ Fun fact: I tend to keep most of my projects on my machine more often than on github, don't really know why though
+- ⚡ Fun fact: I tend to enjoy working and collaborating on projects with other people
 
 <!---
 As-a-re/As-a-re is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
